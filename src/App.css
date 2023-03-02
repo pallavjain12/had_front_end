@@ -36,3 +36,6 @@
     transform: rotate(360deg);
   }
 }
+body {
+  background-image: url("https://img.freepik.com/free-photo/fading-blue-background_53876-88684.jpg") no-repeat center center fixed;
+}
